@@ -2,7 +2,7 @@
 
 # Azure-Soc-Lab
 
-An Azure Sentinel (SIEM) connected to a live virtual machine acting as a honeypot to lure in real life cyber attackers. We will observe live attacks (RDP Brute Force) from all around the world using a custom PowerShell script to look up attackers Geolocation information and then plot it into Azure Semtinel Map to visualize it!
+An Azure Sentinel (SIEM) connected to a live virtual machine acting as a honeypot to lure in real life cyber attackers. We will observe live attacks (RDP Brute Force) from all around the world using a custom PowerShell script to look up attackers Geolocation information and then plot it into Azure Sentinel Map to visualize it!
 
 ![](https://github.com/Dsuleodu1/Azure-Soc-Lab/blob/main/Screenshot%202025-06-11%20093403.png)
 
